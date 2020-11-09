@@ -1,4 +1,4 @@
-# aiface-document-site
+# nuxt-vuetify-blog
 
 ## Build Setup
 
